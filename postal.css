@@ -1,0 +1,45 @@
+.postcard { 
+    width: 500px;
+    padding: 5px;
+    font-family: "Quicksand";
+}
+
+.postcard-header-logo{
+    position: absolute;
+    top: 20px; left: 450px;
+}
+
+.postcard-header-logo img{
+    width: 70px;
+}
+
+.postcard-header-title h1{
+    padding-left: 10px;
+}
+
+ul li {
+    list-style: none;
+}
+
+input {
+    font-family: "Quicksand";
+}
+.postcard-body-text{
+    width: 250px;
+    padding-left: 10px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.postcard-body-input{
+    position: absolute;
+    top: 90px; left: 270px;
+}
+
+.postcard-footer {
+    text-align: center;
+}
+
+button {
+    font-family: "Quicksand";
+}
